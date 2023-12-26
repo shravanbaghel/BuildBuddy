@@ -1,3 +1,9 @@
+
+
+
+https://github.com/shravanbaghel/BuildBuddy/assets/48238406/0480838b-3a48-426c-9941-843603ad8ca2
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
