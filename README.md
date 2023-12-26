@@ -4,6 +4,14 @@
 https://github.com/shravanbaghel/BuildBuddy/assets/48238406/f17f41e2-e3d4-4ee4-9ff7-df20a6f5cde3
 
 
+# Screenshots
+![Screenshot_1703617478](https://github.com/shravanbaghel/BuildBuddy/assets/48238406/269906fa-6cbe-48f2-a41d-89911e355000)
+![Screenshot_1703617476](https://github.com/shravanbaghel/BuildBuddy/assets/48238406/91773d16-c7dc-4216-8d5d-f11703050afe)
+![Screenshot_1703617474](https://github.com/shravanbaghel/BuildBuddy/assets/48238406/5b9c7250-4123-4a5e-82bd-1e25b63844f7)
+![Screenshot_1703617472](https://github.com/shravanbaghel/BuildBuddy/assets/48238406/c19bf483-3d1f-45d2-869a-0aefb538f158)
+![Screenshot_1703617629](https://github.com/shravanbaghel/BuildBuddy/assets/48238406/3c42ba4d-a583-4c73-a596-8b4560bffb9b)
+
+
 
 # Getting Started
 
