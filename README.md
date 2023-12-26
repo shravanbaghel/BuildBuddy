@@ -1,7 +1,8 @@
 
 
 
-https://github.com/shravanbaghel/BuildBuddy/assets/48238406/0480838b-3a48-426c-9941-843603ad8ca2
+https://github.com/shravanbaghel/BuildBuddy/assets/48238406/f17f41e2-e3d4-4ee4-9ff7-df20a6f5cde3
+
 
 
 # Getting Started
